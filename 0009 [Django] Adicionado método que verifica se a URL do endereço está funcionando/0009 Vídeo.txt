@@ -1,24 +1,25 @@
-TÍTULO
+TÍTULO:
 Adicionado método que verifica se a URL do endereço está funcionando
 
 
-DESCRIÇÃO
+DESCRIÇÃO:
 Nesse vídeo adicionei um método que verifica se a URL do endereço está funcionando, ela adiciona um registro no banco com o resultado.
 
 
-PROJETO
+PROJETO:
 https://github.com/fernandoe/fe-healthcheck-server
 
 
-COMMIT
+COMMIT:
 https://github.com/fernandoe/fe-healthcheck-server/commit/536beaec041e79bc288290f58e545e968accf8ca
 
 
-SEGUE LÁ
+SEGUE LÁ:
 https://twitter.com/feresp
 https://www.twitch.tv/fernand0e
 https://www.youtube.com/user/feresp
+https://github.com/fernandoe
 
 
-TAGS
+TAGS:
 python, django, tdd, unit-test, requests

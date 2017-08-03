@@ -18,6 +18,7 @@ SEGUE LÁ:
 <a href="https://www.youtube.com/user/feresp" target="_blank" rel="noopener">Youtube: @feresp</a>
 <a href="https://twitter.com/feresp" target="_blank" rel="noopener">Twitter: @feresp</a>
 <a href="https://www.twitch.tv/fernand0e" target="_blank" rel="noopener">Twitch: @fernand0e</a>
+<a href="https://github.com/fernandoe" target="_blank" rel="noopener">Github: @fernandoe</a>
 
 
 VÍDEO:
