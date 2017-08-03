@@ -1,0 +1,29 @@
+[Python] Criando documentação para o Read the Docs usando Markdown
+
+Nesse vídeo fiz a configuração do projeto para criar e publicar sua documentação no serviço https://readthedocs.org.
+
+Ali pelo minuto 25, inicio a tentativa de publicar a documentação dentro do serviço, mas ele segue dando diversos problemas na hora de buildar a documentação. Foi sem sucesso até o final do vídeo.
+
+No dia seguinte, simplesmente executei o comando para buildar e ele foi com sucesso. Na hora do vídeo o serviço não estava funcionando. 
+
+Segue imagem mostrando:
+
+<img class="alignnone size-medium wp-image-69" src="https://www.fernandoe.com/wp-content/uploads/2017/07/0005-build-ok-on-readthedocs-300x249.png" alt="" width="300" height="249" />
+
+Documentação: <a href="https://fe-endereco-server.readthedocs.io/pt/latest/" target="_blank" rel="noopener">https://fe-endereco-server.readthedocs.io/pt/latest/</a>
+
+Projeto: <a href="https://github.com/fernandoe/fe-endereco-server" target="_blank" rel="noopener">fe-endereco-server</a>
+
+Commit das alterações do vídeo: <a href="https://github.com/fernandoe/fe-endereco-server/commit/d19d976289ac398fbc7ce0e0a4bcf76316798e62" target="_blank" rel="noopener">d19d976289</a>
+
+<iframe src="https://player.twitch.tv/?video=v160598786&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+
+Segue lá:
+Twitter: <a href="https://twitter.com/feresp" target="_blank" rel="noopener">@feresp</a>
+Twitch: <a href="https://www.twitch.tv/fernand0e" target="_blank" rel="noopener">@fernand0e</a>
+
+Referências:
+- https://readthedocs.org
+
+Vídeo: 0005
+Tags: markdown, python, readthedocs, docs

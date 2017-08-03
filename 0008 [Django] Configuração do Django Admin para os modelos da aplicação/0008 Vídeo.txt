@@ -1,0 +1,23 @@
+TÍTULO
+Configuração do Django Admin para os modelos da aplicação
+
+DESCRIÇÃO
+Nesse vídeo adicionei a configuração dos dois modelos (Endereco e Verificacao) ao Django Admin.
+
+
+PROJETO
+https://github.com/fernandoe/fe-healthcheck-server
+
+
+COMMIT
+https://github.com/fernandoe/fe-healthcheck-server/commit/dba30870e65f5adb8c005e0b198fd053e0ad1200
+
+
+SEGUE LÁ
+https://twitter.com/feresp
+https://www.twitch.tv/fernand0e
+https://www.youtube.com/user/feresp
+
+
+TAGS
+python, django, django-admin

@@ -1,0 +1,11 @@
+0006 [Django] Criação do projeto Django básico
+https://youtu.be/3sO7oqzwB5Q
+
+0007 [Django] Criação da app de healthcheck e seus modelos
+https://youtu.be/IuSoP74VMdg
+
+0008 [Django] Configuração do Django Admin para os modelos da aplicação
+https://youtu.be/rcrdB0dkCH0
+
+0009 [Django] Adicionado método que verifica se a URL do endereço está funcionando
+https://youtu.be/7hlIsptDR1Q

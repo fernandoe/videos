@@ -1,0 +1,23 @@
+TÍTULO
+Criação da app de healthcheck e seus modelos
+
+DESCRIÇÃO
+Nesse vídeo adicionei a aplicação de healthcheck e seus dois modelos (Endereco e Verificacao) junto com seus arquivos de migração.
+
+
+PROJETO
+https://github.com/fernandoe/fe-healthcheck-server
+
+
+COMMIT
+https://github.com/fernandoe/fe-healthcheck-server/commit/2d3aac119bb71dd1636794bce2674f53ce43a3b1
+
+
+SEGUE LÁ
+https://twitter.com/feresp
+https://www.twitch.tv/fernand0e
+https://www.youtube.com/user/feresp
+
+
+TAGS
+python, django, startapp, models, makemigrations, migrate

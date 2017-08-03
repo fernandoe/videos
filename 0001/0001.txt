@@ -1,0 +1,25 @@
+Nesse vídeo eu revisei a API de pesquisa por CEP, ajustes no cadastro de endereços e os testes unitários da aplicação.
+
+
+PROJETO
+https://github.com/fernandoe/fe-endereco-server
+
+
+BRANCH DE TRABALHO
+https://github.com/fernandoe/fe-endereco-server/tree/release/0.1.0
+
+
+ENDPOINT
+http://endereco.fe.fernandoe.com
+
+
+ALTERAÇÕES FEITAS NO VÍDEO
+https://github.com/fernandoe/fe-endereco-server/commit/4e51cc381ab14ceb026b1996e0818a76d707df18
+
+
+SOCIAL - Me segue lá
+- Twitter: https://twitter.com/feresp
+- Facebook: https://www.facebook.com/fernando.espindola.583
+- Youtube: https://www.youtube.com/channel/UCDNGiCFEPqxWIcGl68fHydw
+- Github: https://github.com/fernandoe
+- Twitch: https://www.twitch.tv/fernand0e

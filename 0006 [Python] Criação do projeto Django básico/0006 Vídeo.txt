@@ -1,0 +1,24 @@
+TÍTULO:
+[Django] Criação do projeto Django básico
+
+
+DESCRIÇÃO:
+Nesse vídeo fiz a configuração inicial do projeto Django que vamos usar para desenvolver o serviço.
+
+
+PROJETO:
+https://github.com/fernandoe/fe-healthcheck-server
+
+
+COMMIT:
+https://github.com/fernandoe/fe-healthcheck-server/commit/c8edcbd1c2e49a3ba969c248dd74ebd06916b43b
+
+
+SEGUE LÁ:
+https://twitter.com/feresp
+https://www.twitch.tv/fernand0e
+https://www.youtube.com/user/feresp
+
+
+TAGS
+python, django, startproject
