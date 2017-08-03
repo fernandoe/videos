@@ -1,5 +1,5 @@
 TÍTULO:
-Configuração do Django Admin para os modelos da aplicação
+[Django] Configuração do Django Admin para os modelos da aplicação
 
 
 DESCRIÇÃO:

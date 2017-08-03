@@ -1,5 +1,5 @@
 TÍTULO:
-Adicionado método que verifica se a URL do endereço está funcionando
+[Django] Adicionado método que verifica se a URL do endereço está funcionando
 
 
 DESCRIÇÃO:
