@@ -1,0 +1,27 @@
+TÍTULO:
+[Django] Escrevendo um comando customizado no django-admin
+
+
+DESCRIÇÃO:
+Nesse vídeo escrevemos um comando customizado do django-admin que é executado com o manage.py para executar a verificação das URLs cadastradas e ativas dentro do sistema.
+
+
+PROJETO:
+https://github.com/fernandoe/fe-healthcheck-server
+
+
+COMMIT:
+https://github.com/fernandoe/fe-healthcheck-server/commit/8de27e73ed693cee425a1346bb562aecc3eebc64
+
+
+SEGUE LÁ (Uma das melhores formas de apoiar esse trabalho é curtir/seguir/assinar minhas redes sociais):
+https://www.youtube.com/user/feresp
+https://fb.me/streaming.programming
+https://twitter.com/feresp
+https://www.twitch.tv/fernand0e
+https://github.com/fernandoe
+https://fernandoe.com
+
+
+TAGS:
+python, django, command, django-admin
