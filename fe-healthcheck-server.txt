@@ -1,11 +1,14 @@
 0006 [Django] Criação do projeto Django básico
-https://youtu.be/3sO7oqzwB5Q
+https://youtu.be/KwTozmJJ0_o
 
 0007 [Django] Criação da app de healthcheck e seus modelos
-https://youtu.be/IuSoP74VMdg
+https://youtu.be/h8X7cDDgpMs
 
 0008 [Django] Configuração do Django Admin para os modelos da aplicação
-https://youtu.be/rcrdB0dkCH0
+https://youtu.be/IjFbIOFKm3k
 
 0009 [Django] Adicionado método que verifica se a URL do endereço está funcionando
-https://youtu.be/7hlIsptDR1Q
+https://youtu.be/5KqTzzr0DhI
+
+0010 [Django] Escrevendo um comando customizado no django-admin
+https://youtu.be/8owrtTyLSOg
