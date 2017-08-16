@@ -12,3 +12,6 @@ https://youtu.be/5KqTzzr0DhI
 
 0010 [Django] Escrevendo um comando customizado no django-admin
 https://youtu.be/8owrtTyLSOg
+
+0011 [Django] Enviando emails quando uma verificalção de URL falhar
+https://youtu.be/e5zmTQUiKCM
