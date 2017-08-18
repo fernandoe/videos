@@ -15,3 +15,6 @@ https://youtu.be/8owrtTyLSOg
 
 0011 [Django] Enviando emails quando uma verificalção de URL falhar
 https://youtu.be/e5zmTQUiKCM
+
+0012 [Django, Dreamhost, Deploy] Criando um domínio do DH e fazendo um deploy com git
+https://youtu.be/fAGEuq-MpdA
