@@ -8,5 +8,5 @@ Descrições dos vídeos que venho produzindo
 * https://www.fernandoe.com
 * https://twitter.com/feresp
 * https://www.twitch.tv/fernand0e
-* https://www.youtube.com/user/feresp
+* https://www.youtube.com/channel/UCyHuz50Ce8LuiHOj07y9ZIQ
 * https://github.com/fernandoe
