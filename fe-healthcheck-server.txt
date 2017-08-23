@@ -18,3 +18,6 @@ https://youtu.be/e5zmTQUiKCM
 
 0012 [Django, Dreamhost, Deploy] Criando um domínio do DH e fazendo um deploy com git
 https://youtu.be/fAGEuq-MpdA
+
+0013 [Django, Dreamhost, CronJob] Criando um cron job na Dreamhost para rodar a verificação das URLs
+https://youtu.be/q_Qtc2p5gEM
