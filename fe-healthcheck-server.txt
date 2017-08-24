@@ -21,3 +21,6 @@ https://youtu.be/fAGEuq-MpdA
 
 0013 [Django, Dreamhost, CronJob] Criando um cron job na Dreamhost para rodar a verificação das URLs
 https://youtu.be/q_Qtc2p5gEM
+
+0014 [Django, Settings] Separação do arquivo de settings para suportar desenvolvimento e produção
+https://youtu.be/bcJbXxK3tfM
