@@ -1,0 +1,28 @@
+TÍTULO:
+[Django, MySQL] Criação do MySQL no DH e sua configuração de acesso com um arquivo .ini externo
+
+
+DESCRIÇÃO:
+Neste vídeo faço a criação do banco de dados da aplicação (MySQL) dentro do serviço Dreamhost e faço a configuração de acesso da aplicação usando um arquivo .ini externo a aplicação (para os dados como senha e endereço do servidor não ficarem dentro do github).
+Bonus: Tive que salvar minha cadelinha no meio do vídeo, ela prendeu a unha no pelo ao se coçar. :)
+
+
+PROJETO:
+https://github.com/fernandoe/fe-healthcheck-server
+
+
+COMMIT:
+https://github.com/fernandoe/fe-healthcheck-server/commit/4a1050858ff8920bfa2df258939f4e9bdea8e80c
+
+
+SEGUE LÁ (Uma das melhores formas de apoiar esse trabalho é curtir/seguir/assinar/compartilhar minhas redes sociais):
+https://www.youtube.com/channel/UCyHuz50Ce8LuiHOj07y9ZIQ
+https://fb.me/streaming.programming
+https://twitter.com/feresp
+https://www.twitch.tv/fernand0e
+https://github.com/fernandoe
+https://fernandoe.com
+
+
+TAGS:
+python, django, mysql, dreamhost, settings

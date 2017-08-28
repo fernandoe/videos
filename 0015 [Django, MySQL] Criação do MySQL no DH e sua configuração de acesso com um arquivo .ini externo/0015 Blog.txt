@@ -1,0 +1,32 @@
+TÍTULO:
+[Django, MySQL] Criação do MySQL no DH e sua configuração de acesso com um arquivo .ini externo
+
+
+DESCRIÇÃO:
+Neste vídeo faço a criação do banco de dados da aplicação (MySQL) dentro do serviço Dreamhost e faço a configuração de acesso da aplicação usando um arquivo .ini externo a aplicação (para os dados como senha e endereço do servidor não ficarem dentro do github).
+Bonus: Tive que salvar minha cadelinha no meio do vídeo, ela prendeu a unha no pelo ao se coçar. :)
+
+
+PROJETO:
+<a href="https://github.com/fernandoe/fe-healthcheck-server" target="_blank" rel="noopener">https://github.com/fernandoe/fe-healthcheck-server</a>
+
+
+COMMITS:
+<a href="https://github.com/fernandoe/fe-healthcheck-server/commit/4a1050858ff8920bfa2df258939f4e9bdea8e80c" target="_blank" rel="noopener">4a1050858f</a>
+
+
+SEGUE LÁ (Uma das melhores formas de apoiar esse trabalho é curtir/seguir/assinar minhas redes sociais):
+<a href="https://www.youtube.com/channel/UCyHuz50Ce8LuiHOj07y9ZIQ" target="_blank" rel="noopener">Youtube: Streaming Programming</a>
+<a href="https://fb.me/streaming.programming" target="_blank" rel="noopener">Facebook: streaming.programming</a>
+<a href="https://twitter.com/feresp" target="_blank" rel="noopener">Twitter: @feresp</a>
+<a href="https://www.twitch.tv/fernand0e" target="_blank" rel="noopener">Twitch: @fernand0e</a>
+<a href="https://github.com/fernandoe" target="_blank" rel="noopener">Github: @fernandoe</a>
+<a href="https://fernandoe.com" target="_blank" rel="noopener">Blog</a>
+
+
+VÍDEO:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RFqXDaf0Ni4" frameborder="0" allowfullscreen></iframe>
+
+
+TAGS:
+python, django, mysql, dreamhost, settings

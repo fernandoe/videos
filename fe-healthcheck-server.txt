@@ -24,3 +24,6 @@ https://youtu.be/q_Qtc2p5gEM
 
 0014 [Django, Settings] Separação do arquivo de settings para suportar desenvolvimento e produção
 https://youtu.be/bcJbXxK3tfM
+
+0015 [Django, MySQL] Criação do MySQL no DH e sua configuração de acesso com um arquivo .ini externo
+https://youtu.be/RFqXDaf0Ni4
