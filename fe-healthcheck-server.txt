@@ -27,3 +27,6 @@ https://youtu.be/bcJbXxK3tfM
 
 0015 [Django, MySQL] Criação do MySQL no DH e sua configuração de acesso com um arquivo .ini externo
 https://youtu.be/RFqXDaf0Ni4
+
+0016 [Django, Dreamhost, Email] Configurando o Django para enviar emails pela Dreamhost
+https://youtu.be/VG-gQ3e0L3Y
