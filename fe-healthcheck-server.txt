@@ -30,3 +30,6 @@ https://youtu.be/RFqXDaf0Ni4
 
 0016 [Django, Dreamhost, Email] Configurando o Django para enviar emails pela Dreamhost
 https://youtu.be/VG-gQ3e0L3Y
+
+0017 [Django, Logging, Dreanhost] Configurando o Django para logar em um arquivo (logging)
+https://youtu.be/6ol1NPx1qew
