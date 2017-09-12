@@ -1,0 +1,31 @@
+TÍTULO:
+[Django, Django-Admin] Adicionando uma coluna customizada no django-admin
+
+
+DESCRIÇÃO:
+Nesse vídeo adicionamos uma coluna customizada indicando o último resultada da verificação do modelo de Endereço dentro do Django Admin.
+
+
+TODOS OS VÍDEOS DESSE PROJETO
+https://www.youtube.com/playlist?list=PLSlZ5nyl9eneYX950jlgBHfZM9SC2bJfP
+
+
+PROJETO:
+https://github.com/fernandoe/fe-healthcheck-server
+
+
+COMMIT:
+https://github.com/fernandoe/fe-healthcheck-server/commit/820cca2ebcc8668ea93261ed5fa11565551ddca0
+
+
+SEGUE LÁ (Uma das melhores formas de apoiar esse trabalho é curtir/seguir/assinar/compartilhar minhas redes sociais):
+https://www.youtube.com/channel/UCyHuz50Ce8LuiHOj07y9ZIQ
+https://fb.me/streaming.programming
+https://twitter.com/feresp
+https://www.twitch.tv/UrsinhoTV
+https://github.com/fernandoe
+https://fernandoe.com
+
+
+TAGS:
+python, django, django-admin, column

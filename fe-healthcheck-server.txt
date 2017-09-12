@@ -33,3 +33,6 @@ https://youtu.be/VG-gQ3e0L3Y
 
 0017 [Django, Logging, Dreanhost] Configurando o Django para logar em um arquivo (logging)
 https://youtu.be/6ol1NPx1qew
+
+0018 [Django, Django-Admin] Adicionando uma coluna customizada no django-admin
+https://youtu.be/jF9ENjMDIuM
