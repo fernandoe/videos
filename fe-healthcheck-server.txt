@@ -36,3 +36,6 @@ https://youtu.be/6ol1NPx1qew
 
 0018 [Django, Django-Admin] Adicionando uma coluna customizada no django-admin
 https://youtu.be/jF9ENjMDIuM
+
+0019 [Django, Makefile] Adicionando um Makefile para executar os comandos mais usados do projeto
+https://youtu.be/B7ulgCKVnq8
