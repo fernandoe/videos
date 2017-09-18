@@ -5,8 +5,10 @@ TÍTULO:
 DESCRIÇÃO:
 Nesse vídeo fiz a configuração do projeto no Travis para o deploy automático da sua última versão quando um novo commit for identificado. Vale lembrar que o deploy só acontece se todos os testes da aplicação executarem com sucesso. O deploy vai para um server dentro da Dreamhost.
 
+
 PROJETO:
 https://github.com/fernandoe/fe-healthcheck-server
+
 
 TODOS OS VÍDEOS DESSE PROJETO
 Esse vídeo faz parte de uma série onde venho gravando o trabalho real em meus projetos pessoais, ele não é um treinamento.Para ver todos os vídeos desse projeto acesse o link abaixo:

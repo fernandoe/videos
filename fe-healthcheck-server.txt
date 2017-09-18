@@ -41,4 +41,4 @@ https://youtu.be/jF9ENjMDIuM
 https://youtu.be/B7ulgCKVnq8
 
 [Django, Travis, Deploy, Dreamhost] Automatizando o deploy do projeto com Travis para a Dreamhost
-
+https://youtu.be/7PU8LSjDmdk
