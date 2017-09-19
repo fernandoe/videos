@@ -3,7 +3,7 @@ TÍTULO:
 
 
 DESCRIÇÃO:
-Nesse vídeo fiz a configuração para usarmos o pytest na execução dos testes do projeto. Também adicionamos o comando no Makefile para facilitar a execução dentro do CI.
+Nesse vídeo fiz a configuração da biblioteca pytest para executar os testes do projeto. Também adicionamos o comando no Makefile para facilitar a execução dentro do CI.
 
 
 PROJETO:
@@ -29,4 +29,4 @@ https://fernandoe.com
 
 
 TAGS:
-python, django, pytest
+python, django, pytest, unit-test

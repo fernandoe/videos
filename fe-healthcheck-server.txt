@@ -40,5 +40,8 @@ https://youtu.be/jF9ENjMDIuM
 0019 [Django, Makefile] Adicionando um Makefile para executar os comandos mais usados do projeto
 https://youtu.be/B7ulgCKVnq8
 
-[Django, Travis, Deploy, Dreamhost] Automatizando o deploy do projeto com Travis para a Dreamhost
+0020 [Django, Travis, Deploy, Dreamhost] Automatizando o deploy do projeto com Travis para a Dreamhost
 https://youtu.be/7PU8LSjDmdk
+
+0021 [Django, pytest] Integrando a biblioteca pytest ao projeto
+https://youtu.be/vh4NqvYMeCs
