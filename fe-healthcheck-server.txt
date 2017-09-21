@@ -45,3 +45,6 @@ https://youtu.be/7PU8LSjDmdk
 
 0021 [Django, pytest] Integrando a biblioteca pytest ao projeto
 https://youtu.be/vh4NqvYMeCs
+
+0022 [Django, Coverage] Integrando a biblioteca Coverage.py e pytest-cov ao projeto
+https://youtu.be/gc5xSmYtHQI
