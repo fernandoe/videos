@@ -48,3 +48,6 @@ https://youtu.be/vh4NqvYMeCs
 
 0022 [Django, Coverage] Integrando a biblioteca Coverage.py e pytest-cov ao projeto
 https://youtu.be/gc5xSmYtHQI
+
+0023 [Django, Coverage, coveralls.io] Enviando o relatório de cobertura para o coveralls.io
+https://youtu.be/3tUh3ZhTd8I

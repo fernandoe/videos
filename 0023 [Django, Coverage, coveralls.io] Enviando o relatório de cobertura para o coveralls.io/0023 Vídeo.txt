@@ -1,0 +1,34 @@
+TÍTULO:
+[Django, Coverage, coveralls.io] Enviando o relatório de cobertura para o coveralls.io
+
+
+DESCRIÇÃO:
+Nesse vídeo fiz a configuração do envio do relatório de cobertura para o serviço do https://coveralls.io e também configuramos o badge que mostra o percentual de cobertura na página inicial do projeto no github.
+
+
+PROJETO:
+https://github.com/fernandoe/fe-healthcheck-server
+
+
+TODOS OS VÍDEOS DESSE PROJETO
+Esse vídeo faz parte de uma série onde venho gravando o trabalho real em meus projetos pessoais, ele não é um treinamento. Para ver todos os vídeos desse projeto acesse o link abaixo:
+https://www.youtube.com/playlist?list=PLSlZ5nyl9eneYX950jlgBHfZM9SC2bJfP
+
+
+COMMITS:
+https://github.com/fernandoe/fe-healthcheck-server/commit/12ac0fe987747fa95778af1169a5355e211249f2
+https://github.com/fernandoe/fe-healthcheck-server/commit/fbd8773e97de891ece68cf4171953a821ccca8c5
+https://github.com/fernandoe/fe-healthcheck-server/commit/5a26a1ed9d1ba6dcf3402fed8b6a143310d4142b
+
+
+SEGUE LÁ (Uma das melhores formas de apoiar esse trabalho é curtir/seguir/assinar/compartilhar minhas redes sociais):
+https://www.youtube.com/channel/UCyHuz50Ce8LuiHOj07y9ZIQ
+https://fb.me/streaming.programming
+https://twitter.com/feresp
+https://www.twitch.tv/UrsinhoTV
+https://github.com/fernandoe
+https://fernandoe.com
+
+
+TAGS:
+python, django, coverage, coveralls, unit-test
