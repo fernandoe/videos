@@ -53,4 +53,4 @@ https://youtu.be/gc5xSmYtHQI
 https://youtu.be/3tUh3ZhTd8I
 
 0024 [Django, Unit Test, Mock] Simulando requisições com requests-mock
-
+https://youtu.be/pENyk4j6lBw
