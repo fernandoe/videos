@@ -1,2 +1,5 @@
 0026 [Python, Django] Criação da estrutura básica do projeto Django
 https://youtu.be/sUWIbywiZtU
+
+0027 [Python, Django, Travis, CI] Configurando o Travis para a Integração Contínua do Projeto
+https://youtu.be/5PQbxuK2pH4
