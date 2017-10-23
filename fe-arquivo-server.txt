@@ -3,3 +3,6 @@ https://youtu.be/sUWIbywiZtU
 
 0027 [Python, Django, Travis, CI] Configurando o Travis para a Integração Contínua do Projeto
 https://youtu.be/5PQbxuK2pH4
+
+0028 [Python, Django, Deploy, Dreamhost, Git, Pyenv] Automatizando o deploy com git push (push-to-deploy)
+https://youtu.be/LQ02Evl4i0Y
