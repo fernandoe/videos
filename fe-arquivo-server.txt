@@ -6,3 +6,6 @@ https://youtu.be/5PQbxuK2pH4
 
 0028 [Python, Django, Deploy, Dreamhost, Git, Pyenv] Automatizando o deploy com git push (push-to-deploy)
 https://youtu.be/LQ02Evl4i0Y
+
+0029 [Python, Django, Django REST Framework] Instalação e configuração do django-rest-framework
+https://youtu.be/jFNEAJOfUM4
