@@ -9,3 +9,6 @@ https://youtu.be/LQ02Evl4i0Y
 
 0029 [Python, Django, Django REST Framework] Instalação e configuração do django-rest-framework
 https://youtu.be/jFNEAJOfUM4
+
+0030 [Python, Django, startapp] Criação da app de healthcheck
+https://youtu.be/hBQe-XTDM-o

@@ -1,0 +1,46 @@
+TÍTULO:
+[Python, Django, startapp] Criação da app de healthcheck
+
+
+DESCRIÇÃO:
+Nesse vídeo fiz a criação da app de healthcheck. É um vídeo bem rápido mostrando como criar uma app no django. Ela vai servir para ter o código que vai verifiar a saúde da nossa aplicação.
+
+Lembrando que esse vídeo pertence a uma série de todo o trabalho que eu venho realizando em projetos pessoais. Os demais vídeos podem ser acessados pelos links logo abaixo.
+
+
+ROTEIRO:
+https://github.com/fernandoe/fe-arquivo-server/issues/6
+
+
+CANAL:
+https://www.youtube.com/channel/UCyHuz50Ce8LuiHOj07y9ZIQ
+
+
+PROJETO:
+https://github.com/fernandoe/fe-arquivo-server
+
+
+TODOS OS VÍDEOS DESSE PROJETO
+Esse vídeo faz parte de uma série onde venho gravando o trabalho real em meus projetos pessoais, ele não é um treinamento. Para ver todos os vídeos desse projeto acesse o link abaixo:
+https://www.youtube.com/playlist?list=PLSlZ5nyl9enf-kRYiVVliz2esE3ukcgVJ
+
+
+COMMIT:
+https://github.com/fernandoe/fe-arquivo-server/commit/62fa4f30b85196a2e841cad63a32da5256dc063f
+
+
+SEGUE LÁ (Uma das melhores formas de apoiar esse trabalho é curtir/seguir/assinar/compartilhar minhas redes sociais):
+https://www.youtube.com/channel/UCyHuz50Ce8LuiHOj07y9ZIQ
+https://fb.me/streaming.programming
+https://twitter.com/feresp
+https://github.com/fernandoe
+https://fernandoe.com
+
+
+SLACK:
+Quer bater um papo mais interativo? Tirar alguma dúvida? Dar alguma sugestão? Entre no canal do slack usando o link abaixo e venha bater um papo...
+https://goo.gl/DD1q9w
+
+
+TAGS:
+python, django, startapp
