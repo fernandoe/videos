@@ -12,3 +12,6 @@ https://youtu.be/jFNEAJOfUM4
 
 0030 [Python, Django, startapp] Criação da app de healthcheck
 https://youtu.be/hBQe-XTDM-o
+
+0031 [Python, Django, TDD] Criação da rota de /healthcheck
+https://youtu.be/pzNVfuiEMEw
