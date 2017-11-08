@@ -1,5 +1,5 @@
 TÍTULO:
-[Python, Django, Travis, CI] Configurando o Travis para a Integração Contínua do Projeto
+Configurando o Travis para a Integração Contínua do Projeto - Parte 2
 
 
 DESCRIÇÃO:
@@ -35,4 +35,4 @@ https://fernandoe.com
 
 
 TAGS:
-python, django, travis, ci
+python, django, travis, ci, fe-arquivo-server

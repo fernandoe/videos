@@ -1,5 +1,5 @@
 TÍTULO:
-[Python, Django] Criação da estrutura básica do projeto Django
+Criação da estrutura básica do projeto Django - Parte 1
 
 
 DESCRIÇÃO:
@@ -30,4 +30,4 @@ https://fernandoe.com
 
 
 TAGS:
-python, django, startproject, pycharm
+python, django, startproject, pycharm, fe-arquivo-server

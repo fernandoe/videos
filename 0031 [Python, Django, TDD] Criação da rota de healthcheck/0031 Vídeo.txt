@@ -1,5 +1,5 @@
 TÍTULO:
-[Python, Django, TDD] Criação da rota de /healthcheck
+Criação da rota de /healthcheck - Parte 6
 
 
 DESCRIÇÃO:
@@ -42,4 +42,4 @@ https://goo.gl/DD1q9w
 
 
 TAGS:
-python, django, tdd, unit-test, mock, patch
+python, django, tdd, unit-test, mock, patch, fe-arquivo-server

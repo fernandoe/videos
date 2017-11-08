@@ -1,5 +1,5 @@
 TÍTULO:
-[Python, Django, startapp] Criação da app de healthcheck
+Criação da app de healthcheck - Parte 5
 
 
 DESCRIÇÃO:
@@ -43,4 +43,4 @@ https://goo.gl/DD1q9w
 
 
 TAGS:
-python, django, startapp
+python, django, startapp, fe-arquivo-server

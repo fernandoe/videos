@@ -1,20 +1,23 @@
-0026 [Python, Django] Criação da estrutura básica do projeto Django
+0026 Criação da estrutura básica do projeto Django - Parte 1
 https://youtu.be/sUWIbywiZtU
 
-0027 [Python, Django, Travis, CI] Configurando o Travis para a Integração Contínua do Projeto
+0027 Configurando o Travis para a Integração Contínua do Projeto - Parte 2
 https://youtu.be/5PQbxuK2pH4
 
-0028 [Python, Django, Deploy, Dreamhost, Git, Pyenv] Automatizando o deploy com git push (push-to-deploy)
+0028 Automatizando o deploy com git push (push-to-deploy) - Parte 3
 https://youtu.be/LQ02Evl4i0Y
 
-0029 [Python, Django, Django REST Framework] Instalação e configuração do django-rest-framework
+0029 Instalação e configuração do django-rest-framework - Parte 4
 https://youtu.be/jFNEAJOfUM4
 
-0030 [Python, Django, startapp] Criação da app de healthcheck
+0030 Criação da app de healthcheck - Parte 5
 https://youtu.be/hBQe-XTDM-o
 
-0031 [Python, Django, TDD] Criação da rota de /healthcheck
+0031 Criação da rota de /healthcheck - Parte 6
 https://youtu.be/pzNVfuiEMEw
 
-0032 [Python, Django, startapp] Criação da app de arquivo
+0032 Criação da app de arquivo - Parte 7
 https://youtu.be/Et0MpuoiVms
+
+0033 Implementando uma rota para receber o upload de arquivos - Parte 8
+https://youtu.be/JBNYHfcY8SI

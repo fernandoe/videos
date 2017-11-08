@@ -1,5 +1,5 @@
 TÍTULO:
-[Python, Django, startapp] Criação da app de arquivo
+Criação da app de arquivo - Parte 7
 
 
 DESCRIÇÃO:
@@ -42,4 +42,4 @@ https://goo.gl/DD1q9w
 
 
 TAGS:
-python, django, startapp
+python, django, startapp, fe-arquivo-server

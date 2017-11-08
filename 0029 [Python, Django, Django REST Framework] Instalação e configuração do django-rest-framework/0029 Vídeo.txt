@@ -1,5 +1,5 @@
 TÍTULO:
-[Python, Django, Django REST Framework] Instalação e configuração do django-rest-framework
+Instalação e configuração do django-rest-framework - Parte 4
 
 
 DESCRIÇÃO:
@@ -41,4 +41,4 @@ https://goo.gl/DD1q9w
 
 
 TAGS:
-python, django, django-rest-framework
+python, django, django-rest-framework, fe-arquivo-server

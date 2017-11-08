@@ -1,5 +1,5 @@
 TÍTULO:
-[Python, Django, Deploy, Dreamhost, Git, Pyenv] Automatizando o deploy com git push (push-to-deploy)
+Automatizando o deploy com git push (push-to-deploy) - Parte 3
 
 
 DESCRIÇÃO:
@@ -41,4 +41,4 @@ https://goo.gl/DD1q9w
 
 
 TAGS:
-python, django, dreamhost, git, deploy, pyenv, virtualenv, virtualenvwrapper
+python, django, dreamhost, git, deploy, pyenv, virtualenv, virtualenvwrapper, fe-arquivo-server
