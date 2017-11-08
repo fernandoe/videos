@@ -4,20 +4,16 @@ Implementando uma rota para receber o upload de arquivos - Parte 8
 
 DESCRIÇÃO:
 Nesse vídeo fiz a criação de uma rota para receber o upload de arquivos usando TDD (criando os testes antes da implementação). Usamos também mocks para simular o salvamento do arquivo no disco e com isso não salvar fisicamente os arquivos na hora da execução do teste.
+
 Lembrando que esse vídeo pertence a uma série de todo o trabalho que eu venho realizando em projetos pessoais, ele não é um treinamento. Para ver todos os vídeos desse projeto acesse o link abaixo:
+
 https://www.youtube.com/playlist?list=PLSlZ5nyl9enf-kRYiVVliz2esE3ukcgVJ
 
 
-PROJETO:
-https://github.com/fernandoe/fe-arquivo-server
-
-
-ROTEIRO:
-https://github.com/fernandoe/fe-arquivo-server/issues/9
-
-
-COMMIT:
-https://github.com/fernandoe/fe-arquivo-server/commit/cffdd637b5d3e1fab25906b70cd21bdb1c8b6497
+LINKS:
+- Projeto: https://github.com/fernandoe/fe-arquivo-server
+- Roteiro: https://github.com/fernandoe/fe-arquivo-server/issues/9
+- Commit: https://github.com/fernandoe/fe-arquivo-server/commit/cffdd637b5d3e1fab25906b70cd21bdb1c8b6497
 
 
 INSCREVER-SE NO CANAL:

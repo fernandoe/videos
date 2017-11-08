@@ -13,7 +13,7 @@ https://youtu.be/jFNEAJOfUM4
 0030 Criação da app de healthcheck - Parte 5
 https://youtu.be/hBQe-XTDM-o
 
-0031 Criação da rota de /healthcheck - Parte 6
+0031 Criação da rota de healthcheck - Parte 6
 https://youtu.be/pzNVfuiEMEw
 
 0032 Criação da app de arquivo - Parte 7
