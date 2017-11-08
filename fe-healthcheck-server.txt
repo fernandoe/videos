@@ -1,59 +1,59 @@
-0006 [Django] Criação do projeto Django básico
+0006 Parte 1: Criação do projeto Django básico
 https://youtu.be/KwTozmJJ0_o
 
-0007 [Django] Criação da app de healthcheck e seus modelos
+0007 Parte 2: Criação da app de healthcheck e seus modelos
 https://youtu.be/h8X7cDDgpMs
 
-0008 [Django] Configuração do Django Admin para os modelos da aplicação
+0008 Parte 3: Configuração do Django Admin para os modelos da aplicação
 https://youtu.be/IjFbIOFKm3k
 
-0009 [Django] Adicionado método que verifica se a URL do endereço está funcionando
+0009 Parte 4: Adicionado método que verifica se a URL do endereço está funcionando
 https://youtu.be/5KqTzzr0DhI
 
-0010 [Django] Escrevendo um comando customizado no django-admin
+0010 Parte 5: Escrevendo um comando customizado no django-admin
 https://youtu.be/8owrtTyLSOg
 
-0011 [Django] Enviando emails quando uma verificalção de URL falhar
+0011 Parte 6: Enviando emails quando uma verificalção de URL falhar
 https://youtu.be/e5zmTQUiKCM
 
-0012 [Django, Dreamhost, Deploy] Criando um domínio do DH e fazendo um deploy com git
+0012 Parte 7: Criando um domínio do DH e fazendo um deploy com git
 https://youtu.be/fAGEuq-MpdA
 
-0013 [Django, Dreamhost, CronJob] Criando um cron job na Dreamhost para rodar a verificação das URLs
+0013 Parte 8: Criando um cron job na Dreamhost para rodar a verificação das URLs
 https://youtu.be/q_Qtc2p5gEM
 
-0014 [Django, Settings] Separação do arquivo de settings para suportar desenvolvimento e produção
+0014 Parte 9: Separação do arquivo de settings para suportar desenvolvimento e produção
 https://youtu.be/bcJbXxK3tfM
 
-0015 [Django, MySQL] Criação do MySQL no DH e sua configuração de acesso com um arquivo .ini externo
+0015 Parte 10: Criação do MySQL no DH e sua configuração de acesso com um arquivo .ini externo
 https://youtu.be/RFqXDaf0Ni4
 
-0016 [Django, Dreamhost, Email] Configurando o Django para enviar emails pela Dreamhost
+0016 Parte 11: Configurando o Django para enviar emails pela Dreamhost
 https://youtu.be/VG-gQ3e0L3Y
 
-0017 [Django, Logging, Dreanhost] Configurando o Django para logar em um arquivo (logging)
+0017 Parte 12: Configurando o Django para logar em um arquivo (logging)
 https://youtu.be/6ol1NPx1qew
 
-0018 [Django, Django-Admin] Adicionando uma coluna customizada no django-admin
+0018 Parte 13: Adicionando uma coluna customizada no django-admin
 https://youtu.be/jF9ENjMDIuM
 
-0019 [Django, Makefile] Adicionando um Makefile para executar os comandos mais usados do projeto
+0019 Parte 14: Adicionando um Makefile para executar os comandos mais usados do projeto
 https://youtu.be/B7ulgCKVnq8
 
-0020 [Django, Travis, Deploy, Dreamhost] Automatizando o deploy do projeto com Travis para a Dreamhost
+0020 Parte 15: Automatizando o deploy do projeto com Travis para a Dreamhost
 https://youtu.be/7PU8LSjDmdk
 
-0021 [Django, pytest] Integrando a biblioteca pytest ao projeto
+0021 Parte 16: Integrando a biblioteca pytest ao projeto
 https://youtu.be/vh4NqvYMeCs
 
-0022 [Django, Coverage] Integrando a biblioteca Coverage.py e pytest-cov ao projeto
+0022 Parte 17: Integrando a biblioteca Coverage.py e pytest-cov ao projeto
 https://youtu.be/gc5xSmYtHQI
 
-0023 [Django, Coverage, coveralls.io] Enviando o relatório de cobertura para o coveralls.io
+0023 Parte 18: Enviando o relatório de cobertura para o coveralls.io
 https://youtu.be/3tUh3ZhTd8I
 
-0024 [Django, Unit Test, Mock] Simulando requisições com requests-mock
+0024 Parte 19: Simulando requisições com requests-mock
 https://youtu.be/pENyk4j6lBw
 
-0025 [Python, Requirements, requires.io] Integrando o requires.io para monitorar as libs do projeto
+0025 Parte 20: Integrando o requires.io para monitorar as libs do projeto
 https://youtu.be/zXi--Qbj3AI
