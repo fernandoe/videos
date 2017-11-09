@@ -1,0 +1,31 @@
+TÍTULO:
+Parte 2: Configurando o Travis para a Integração Contínua do Projeto
+
+
+DESCRIÇÃO:
+Nesse vídeo fiz a configuração do projeto para usar o Travis como o serviço de integração contínua, assim todo commit dentro do repositório irá disparar um job no Travis que vai testar as modificações e garantir que nada quebrará dentro do nosso projeto.
+
+Lembrando que esse vídeo pertence a uma série de todo o trabalho que eu venho realizando em projetos pessoais. Para ver todos os vídeos desse projeto acesse o link abaixo:
+
+https://www.youtube.com/playlist?list=PLSlZ5nyl9enf-kRYiVVliz2esE3ukcgVJ
+
+
+LINKS:
+- Projeto: https://github.com/fernandoe/fe-arquivo-server
+- Commit: https://github.com/fernandoe/fe-arquivo-server/commit/d3a2073527c62953e5c0646bba88f21b6362be59
+
+
+INSCREVER-SE NO CANAL:
+https://www.youtube.com/channel/UCyHuz50Ce8LuiHOj07y9ZIQ?sub_confirmation=1
+
+
+SEGUE LÁ (Uma das melhores formas de apoiar esse trabalho é curtir/seguir/assinar/compartilhar minhas redes sociais):
+https://www.youtube.com/channel/UCyHuz50Ce8LuiHOj07y9ZIQ
+https://fb.me/streaming.programming
+https://twitter.com/feresp
+https://github.com/fernandoe
+https://fernandoe.com
+
+
+TAGS:
+python, django, travis, ci, fe-arquivo-server
