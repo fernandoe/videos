@@ -1,14 +1,13 @@
 TÍTULO:
-Criação da app de arquivo - Parte 7
+Parte 4: Instalação e configuração do django-rest-framework
 
 
 DESCRIÇÃO:
-Nesse vídeo fiz a criação da app de arquivo. É um vídeo bem rápido mostrando como criar uma app no django. Esta app vai conter todas as rotas e views que vão gerenciar o upload e download de arquivos do nosso serviço.
-Lembrando que esse vídeo pertence a uma série de todo o trabalho que eu venho realizando em projetos pessoais. Os demais vídeos podem ser acessados pelos links logo abaixo.
+Nesse vídeo fizemos a instalação e configuração do Django REST framework, e instalação de mais algumas libs para testes e utilização do console. Lembrando que esse vídeo pertence a uma série de todo o trabalho que eu venho realizando nesse projeto. Os demais vídeos podem ser acessados pelos links logo abaixo.
 
 
 ROTEIRO:
-https://github.com/fernandoe/fe-arquivo-server/issues/8
+https://github.com/fernandoe/fe-arquivo-server/issues/5
 
 
 CANAL:
@@ -25,7 +24,7 @@ https://www.youtube.com/playlist?list=PLSlZ5nyl9enf-kRYiVVliz2esE3ukcgVJ
 
 
 COMMIT:
-https://github.com/fernandoe/fe-arquivo-server/commit/a7d920ad4b4bf6aa84df663bd86986897f339835
+https://github.com/fernandoe/fe-arquivo-server/commit/e4de46a5a83afb533cb9b4467eac50a0a0864446
 
 
 SEGUE LÁ (Uma das melhores formas de apoiar esse trabalho é curtir/seguir/assinar/compartilhar minhas redes sociais):
@@ -42,4 +41,4 @@ https://goo.gl/DD1q9w
 
 
 TAGS:
-python, django, startapp, fe-arquivo-server
+python, django, django-rest-framework, fe-arquivo-server
