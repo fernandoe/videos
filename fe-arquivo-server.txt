@@ -21,3 +21,6 @@ https://youtu.be/Et0MpuoiVms
 
 0033 Parte 8: Implementando uma rota para receber o upload de arquivos
 https://youtu.be/JBNYHfcY8SI
+
+0034 Parte 9: Criando o modelo de Arquivo
+https://youtu.be/g6jetkHCWIw
