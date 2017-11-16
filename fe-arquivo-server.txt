@@ -24,3 +24,6 @@ https://youtu.be/JBNYHfcY8SI
 
 0034 Parte 9: Criando o modelo de Arquivo
 https://youtu.be/g6jetkHCWIw
+
+0035 Parte 10: Criando o serializer para o modelo de arquivo com o Django REST Framework
+https://youtu.be/rioUfTTf8t0
