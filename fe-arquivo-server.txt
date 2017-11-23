@@ -30,3 +30,6 @@ https://youtu.be/rioUfTTf8t0
 
 0036 Parte 11: Retornando um JSON com um ModelSerializer na rota de upload de arquivo
 https://youtu.be/7Q2AuR_HVdM
+
+0037 Parte 12: Implementando uma rota que retorna os detalhes de um arquivo no formato JSON
+https://youtu.be/5N4VKYw_0Iw
