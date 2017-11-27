@@ -1,0 +1,37 @@
+TÍTULO:
+Parte 13: Implementando a rota que baixa um arquivo específico
+
+
+DESCRIÇÃO:
+Nesse vídeo adicionei uma nova rota ao sistema que baixa um arquivo específico que o usuário solicita. Implementamos essa view usando como guia um teste unitário (TDD - criando os testes antes da implementação).
+
+Lembrando que esse vídeo pertence a uma série de todo o trabalho que eu venho realizando em projetos pessoais. Para ver todos os vídeos desse projeto acesse o link abaixo:
+
+https://goo.gl/xNmqrF
+
+
+LINKS:
+- Projeto: https://github.com/fernandoe/fe-arquivo-server
+- Roteiro: https://github.com/fernandoe/fe-arquivo-server/issues/15
+- Commit: https://github.com/fernandoe/fe-arquivo-server/commit/c4c3fafd6146ad75bd822e6fa479c92fce34cfce
+
+
+INSCREVER-SE NO CANAL:
+https://www.youtube.com/c/CodigoAbertoTV?sub_confirmation=1
+
+
+SEGUE LÁ (Uma das melhores formas de apoiar esse trabalho é curtir/seguir/assinar/compartilhar minhas redes sociais):
+https://www.youtube.com/c/CodigoAbertoTV
+https://fb.me/codigo.aberto.tv
+https://twitter.com/feresp
+https://github.com/fernandoe
+http://codigoaberto.tv
+
+
+SLACK:
+Quer bater um papo mais interativo? Tirar alguma dúvida? Dar alguma sugestão? Entre no canal do slack usando o link abaixo e venha bater um papo...
+https://goo.gl/DD1q9w
+
+
+TAGS:
+python, django, tdd, unit-test, mock, patch, django-rest-framework, apiview, file-response, download, fe-arquivo-server
