@@ -36,3 +36,6 @@ https://youtu.be/5N4VKYw_0Iw
 
 0038 Parte 13: Implementando a rota que baixa um arquivo específico
 https://youtu.be/z7ITUFMY62k
+
+0039 Parte 14: Integrando a biblioteca factory_boy ao projeto
+https://youtu.be/_dRBGV53WRA
