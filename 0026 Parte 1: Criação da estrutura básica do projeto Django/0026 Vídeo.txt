@@ -5,9 +5,9 @@ Parte 1: Criação da estrutura básica do projeto Django
 DESCRIÇÃO:
 Nesse vídeo fiz a criação do projeto Django que vamos utilizar para o desenvolvimento do serviço. Este é o primeiro vídeo de uma série onde vou gravar todo o trabalho de desenvolvimento realizado neste projeto. 
 
-Lembrando que esse vídeo pertence a uma série de todo o trabalho que eu venho realizando em projetos pessoais, ele não é um treinamento. Para ver todos os vídeos desse projeto acesse o link abaixo:
+Lembrando que esse vídeo pertence a uma série de todo o trabalho que eu venho realizando em projetos pessoais. Para ver todos os vídeos desse projeto acesse o link abaixo:
 
-https://www.youtube.com/playlist?list=PLSlZ5nyl9enf-kRYiVVliz2esE3ukcgVJ
+https://goo.gl/xNmqrF
 
 
 LINKS:
@@ -16,14 +16,15 @@ LINKS:
 
 
 INSCREVER-SE NO CANAL:
-https://www.youtube.com/channel/UCyHuz50Ce8LuiHOj07y9ZIQ?sub_confirmation=1
+https://www.youtube.com/c/CodigoAbertoTV?sub_confirmation=1
 
 
 SEGUE LÁ (Uma das melhores formas de apoiar esse trabalho é curtir/seguir/assinar/compartilhar minhas redes sociais):
-https://www.youtube.com/channel/UCyHuz50Ce8LuiHOj07y9ZIQ
-https://fb.me/streaming.programming
+https://www.youtube.com/c/CodigoAbertoTV
+https://fb.me/codigo.aberto.tv
 https://twitter.com/feresp
 https://github.com/fernandoe
+https://codigoaberto.tv
 
 
 SLACK:
