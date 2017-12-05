@@ -24,4 +24,4 @@ https://fernandoe.com
 
 
 TAGS:
-python, django, email, signals, templates
+python, django, email, signals, templates, fe-healthcheck-server

@@ -31,4 +31,4 @@ https://fernandoe.com
 
 
 TAGS:
-python, django, travis, deploy, dreamhost
+python, django, travis, deploy, dreamhost, fe-healthcheck-server

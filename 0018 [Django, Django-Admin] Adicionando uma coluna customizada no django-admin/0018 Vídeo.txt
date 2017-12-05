@@ -28,4 +28,4 @@ https://fernandoe.com
 
 
 TAGS:
-python, django, django-admin, column
+python, django, django-admin, column, fe-healthcheck-server

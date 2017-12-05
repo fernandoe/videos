@@ -1,5 +1,5 @@
 TÍTULO:
-[Django, MySQL] Criação do MySQL no DH e sua configuração de acesso com um arquivo .ini externo
+[Django, MySQL] Criação do MySQL no DH e sua configuração com um arquivo .ini externo
 
 
 DESCRIÇÃO:
@@ -25,4 +25,4 @@ https://fernandoe.com
 
 
 TAGS:
-python, django, mysql, dreamhost, settings
+python, django, mysql, dreamhost, settings, fe-healthcheck-server

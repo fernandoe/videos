@@ -24,4 +24,4 @@ https://fernandoe.com
 
 
 TAGS:
-python, django, startapp, models, makemigrations, migrate
+python, django, startapp, models, makemigrations, migrate, fe-healthcheck-server

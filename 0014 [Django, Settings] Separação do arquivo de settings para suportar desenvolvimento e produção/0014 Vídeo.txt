@@ -1,5 +1,5 @@
 TÍTULO:
-[Django, Settings] Separação do arquivo de settings para suportar desenvolvimento e produção
+[Django, Settings] Separação do arquivo de settings para suportar diversos ambientes
 
 
 DESCRIÇÃO:
@@ -24,4 +24,4 @@ https://fernandoe.com
 
 
 TAGS:
-python, django, settings
+python, django, settings, fe-healthcheck-server

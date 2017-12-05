@@ -1,5 +1,5 @@
 TÍTULO:
-[Django] Adicionado método que verifica se a URL do endereço está funcionando
+[Django] Adicionando método que testa se o endereço do serviço está ok
 
 
 DESCRIÇÃO:
@@ -24,4 +24,4 @@ https://fernandoe.com
 
 
 TAGS:
-python, django, tdd, unit-test, requests
+python, django, tdd, unit-test, requests, fe-healthcheck-server

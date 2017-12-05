@@ -31,4 +31,4 @@ https://fernandoe.com
 
 
 TAGS:
-python, django, coverage, coveralls, unit-test
+python, django, coverage, coveralls, unit-test, fe-healthcheck-server

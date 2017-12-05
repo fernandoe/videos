@@ -1,5 +1,5 @@
 TÍTULO:
-Parte 1: Criação do projeto Django que vamos usar para esse serviço
+Parte 1: Criação da estrutura básica do projeto Django
 
 
 DESCRIÇÃO:

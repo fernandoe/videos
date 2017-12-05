@@ -28,4 +28,4 @@ https://fernandoe.com
 
 
 TAGS:
-python, django, logging, log, settings, dreamhost
+python, django, logging, log, settings, dreamhost, fe-healthcheck-server

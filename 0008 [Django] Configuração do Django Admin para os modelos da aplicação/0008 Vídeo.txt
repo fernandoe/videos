@@ -24,4 +24,4 @@ https://fernandoe.com
 
 
 TAGS:
-python, django, django-admin
+python, django, django-admin, fe-healthcheck-server

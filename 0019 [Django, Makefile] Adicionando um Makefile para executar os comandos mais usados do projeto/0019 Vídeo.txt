@@ -1,5 +1,5 @@
 TÍTULO:
-[Django, Makefile] Adicionando um Makefile para executar os comandos mais usados do projeto
+[Django, Makefile]  Adicionando um Makefile para simplificar os comandos do projeto
 
 
 DESCRIÇÃO:
@@ -28,4 +28,4 @@ https://fernandoe.com
 
 
 TAGS:
-python, django, makefile
+python, django, makefile, fe-healthcheck-server

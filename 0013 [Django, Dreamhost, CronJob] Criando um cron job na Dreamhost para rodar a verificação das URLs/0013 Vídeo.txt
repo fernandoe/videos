@@ -24,4 +24,4 @@ https://fernandoe.com
 
 
 TAGS:
-python, django, dreamhost, devops, cron-job, command
+python, django, dreamhost, devops, cron-job, command, fe-healthcheck-server

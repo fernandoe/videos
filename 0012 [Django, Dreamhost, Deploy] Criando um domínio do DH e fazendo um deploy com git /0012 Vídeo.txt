@@ -26,4 +26,4 @@ https://fernandoe.com
 
 
 TAGS:
-python, django, dreamhost, git, deploy
+python, django, dreamhost, git, deploy, fe-healthcheck-server
