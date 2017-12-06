@@ -1,9 +1,9 @@
 TÍTULO:
-Parte 1: Criação da estrutura básica do projeto Django
+Parte 3: Configuração do Django Admin para os modelos da aplicação
 
 
 DESCRIÇÃO:
-Nesse vídeo fiz a configuração inicial do projeto Django que vamos usar para desenvolver o serviço.
+Nesse vídeo adicionei a configuração dos dois modelos (Endereco e Verificacao) no Django Admin.
 
 Lembrando que esse vídeo pertence a uma série de todo o trabalho que eu venho realizando em projetos pessoais. Para ver todos os vídeos desse projeto acesse o link abaixo:
 
@@ -12,11 +12,7 @@ https://goo.gl/xNmqrF
 
 LINKS:
 - Projeto: https://github.com/fernandoe/fe-healthcheck-server
-- Commit: https://github.com/fernandoe/fe-healthcheck-server/commit/c8edcbd1c2e49a3ba969c248dd74ebd06916b43b
-
-
-INSCREVER-SE NO CANAL:
-https://www.youtube.com/c/CodigoAbertoTV?sub_confirmation=1
+- Commit: https://github.com/fernandoe/fe-healthcheck-server/commit/dba30870e65f5adb8c005e0b198fd053e0ad1200
 
 
 SEGUE LÁ (Uma das melhores formas de apoiar esse trabalho é curtir/seguir/assinar/compartilhar minhas redes sociais):
@@ -28,4 +24,4 @@ https://codigoaberto.tv
 
 
 TAGS:
-python, django, startproject, virtualenv, fe-healthcheck-server
+python, django, django-admin, fe-healthcheck-server
